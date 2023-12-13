@@ -1,4 +1,4 @@
-### Olá meu nome é Nélio Pagani Neto 👋
+### Hi my name is Nélio Pagani Neto 👋
 <h4>I'm 19 years old and I had my first contact with programming in my Computer Engineering degree 💻. Today I work as back-end developer</h4>
 
 <img align="right" height="300px" width="25%" src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif">   
