@@ -35,4 +35,4 @@
 - 📫 How to reach me: neliopaganineto@gmail.com
 
 
-- Fourth semester of computer engineering at UFSC- Brazil
+- Fifth semester of computer engineering at UFSC- Brazil
