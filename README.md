@@ -29,3 +29,9 @@
   <img align="center" alt="LB-CSS"   src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> 
 </div>
 <div> 
+
+##
+- 📫 How to reach me: neliopaganineto@gmail.com
+
+
+- Fourth semester of computer engineering at UFSC- Brazil
