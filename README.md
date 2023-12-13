@@ -5,6 +5,7 @@
 <p> - Computer Engineering  student at UFSC (Brazil)</p>
 <p> - FullStack developer </p>
 <p> - Passionate about programming, math, online games, eletronics and hardware </p>
+<p> - Currently learning C# </p>
 
   <p align="left">
     <a href="https://github.com/Nelinhop">
