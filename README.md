@@ -7,11 +7,6 @@
 <p> - Passionate about programming, math, online games, eletronics and hardware </p>
 <p> - Currently learning C# </p>
 
-  <p align="left">
-    <a href="https://github.com/Nelinhop">
-    <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Nelinhop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelinhop&layout=compact&langs_count=7&theme=dracula"/>
-  </p>
       
   <h4>Languages and Tools:</h4>
 <div style="display: inline_block" width="500px"><br>
